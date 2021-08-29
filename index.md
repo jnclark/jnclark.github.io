@@ -1,7 +1,7 @@
 # About me
 
-I am an Assistant Professor of Mathematics at Missouri Southern State University.
+I am a Mathematician (PhD 2019), formerly an Assistant Professor of Mathematics, currently pursuing other projects.
 
 ### Contact
 
-I am happy to hear from people via email, my current address is `clark-jacob [at] mssu [dot] edu`.
+Email: `jnc [at] jnclark [dot] org`
